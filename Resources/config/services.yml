@@ -1,0 +1,10 @@
+services:
+    parsedown.standart:
+        class: Parsedown
+    parsedown.extra:
+        class: ParsedownExtra
+    bgaze.bundles.parsedown.twig.extension:
+        class: Bgaze\ParsedownBundle\Twig\ParsedownExtension
+        arguments: ["@parsedown.standart", "@parsedown.extra"]
+        tags:
+         - { name: twig.extension }         
