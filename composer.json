@@ -21,5 +21,6 @@
         "psr-0": {
             "Bgaze\\ParsedownBundle": ""
         }
-    }
+    },
+    "target-dir": "Bgaze/ParsedownBundle"
 }
