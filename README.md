@@ -1,6 +1,6 @@
-# Parsedown Bundle
+# Bgaze Parsedown Bundle
 
-Add support for [parsedown](https://github.com/erusev/parsedown) and [parsedown-extra](https://github.com/erusev/parsedown-extra) in symfony 2.
+Add support for [parsedown](https://github.com/erusev/parsedown) and [parsedown-extra](https://github.com/erusev/parsedown-extra) in Symfony 2.
 
 Provides :
 
@@ -16,10 +16,10 @@ Provides :
 Add the bundle in your *composer.json* :
 
     "require": {
-        "bgaze/parsedown-bundle": "@dev"
+        "bgaze/parsedown-bundle": "dev-master"
     }
 
-Update your vendors, then enable it in *AppKernel.php* :
+Update your vendors, then enable bundle in *AppKernel.php* :
 
     new Bgaze\ParsedownBundle\BgazeParsedownBundle(),
 

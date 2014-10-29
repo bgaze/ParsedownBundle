@@ -1,9 +1,9 @@
 {
     "name": "bgaze/parsedown-bundle",
     "type": "symfony-bundle",
-    "description": "Add support for parsedown and parsedown-extra in symfony 2 by providing services and Twig filters.",
+    "description": "Add support for parsedown and parsedown-extra in Symfony 2 by providing services and Twig filters.",
     "keywords": ["parsedown", "twig", "symfony2", "markdown", "bundle"],
-    "homepage": "http://bgaze.fr",
+    "homepage": "https://github.com/Bgaze/ParsedownBundle",
     "license": "MIT",
     "authors": [
         {
