@@ -1,6 +1,6 @@
-# Bgaze Parsedown Bundle
+> **This project is not maintained anymore.** Feel free to fork it and upgrade it as you want.
 
-> This project is not maintained anymore. Feel free to fork it and upgrade it as you want.
+# Bgaze Parsedown Bundle
 
 Add support for [parsedown](https://github.com/erusev/parsedown) and [parsedown-extra](https://github.com/erusev/parsedown-extra) in Symfony 2.
 
